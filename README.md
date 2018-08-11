@@ -1,11 +1,11 @@
-# hello-world
+# Hello-World
 This is a basic HTML hello world
 
-Skills :
-1. HTML
+## Skills :
+- HTML
 
-SubSkills :
-1. HTML template
-2. <h1>
-3. <div>
-4. <p>
+## SubSkills :
+- HTML template
+- `<h1>`
+- `<div>`
+- `<p>`
