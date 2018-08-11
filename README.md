@@ -5,7 +5,6 @@ This is a basic HTML hello world
 - HTML
 
 ## SubSkills :
-- HTML template
 - `<h1>`
 - `<div>`
 - `<p>`
