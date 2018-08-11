@@ -1,10 +1,10 @@
 # Hello-World
 This is a basic HTML hello world
 
-## Skills :
+### Skills :
 - HTML
 
-## SubSkills :
+### SubSkills :
 - `<h1>`
 - `<div>`
 - `<p>`
